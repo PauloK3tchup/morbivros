@@ -1,0 +1,139 @@
+{
+  "editoras": [
+    {
+      "id": 1,
+      "nome": "Edidora",
+      "site": "edidora.cum"
+    },
+    {
+      "id": 2,
+      "nome": "Edidora 2",
+      "site": "nemfodendo.com"
+    },
+    {
+      "id": 3,
+      "nome": "Edidora 3: English patch",
+      "site": "notevenfucking.com"
+    },
+    {
+      "nome": "Editora 4: Dr. Nefardio Productions",
+      "site": "https://nerfadex.com",
+      "id": 4
+    },
+    {
+      "nome": "Mobius JetsKis",
+      "site": "mobiussemor.cum.br",
+      "id": 5
+    },
+    {
+      "nome": "White Productions",
+      "site": "walterwhiters.com.br",
+      "id": 6
+    },
+    {
+      "nome": "Bababooey",
+      "site": "eita.coom.br",
+      "id": 7
+    }
+  ],
+  "autores": [
+    {
+      "id": 1,
+      "nome": "Monteiro Meusaco",
+      "data": "0001-01-01"
+    },
+    {
+      "id": 2,
+      "nome": "JK Rola",
+      "data": "0001-01-01"
+    },
+    {
+      "id": 3,
+      "nome": "Steven Rei",
+      "data": "0001-01-01"
+    },
+    {
+      "nome": "Fabio Longo de Moura",
+      "data": "1403-07-11",
+      "id": 4
+    },
+    {
+      "nome": "Mano J.C",
+      "data": "0001-12-25",
+      "id": 5
+    },
+    {
+      "nome": "Fabio Curto de Moura",
+      "data": "2022-07-28",
+      "id": 6
+    },
+    {
+      "nome": "Gru",
+      "data": "0001-01-01",
+      "id": 7
+    },
+    {
+      "nome": "Walter Hartwell \"Walt\" White Sr.",
+      "data": "1958-09-07",
+      "id": 8
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ação",
+      "obs": "Livros de ação"
+    },
+    {
+      "id": 2,
+      "nome": "Suspense",
+      "obs": "Livros de suspense/mistério"
+    },
+    {
+      "id": 3,
+      "nome": "Morbius",
+      "obs": "Morbius"
+    },
+    {
+      "nome": "Minions",
+      "obs": "Gru",
+      "id": 4
+    },
+    {
+      "nome": "Grutastico",
+      "obs": "Gru fantástico",
+      "id": 5
+    },
+    {
+      "nome": "Tutoriais Bons",
+      "obs": "Como fazer coisas",
+      "id": 6
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "nome": "Harry Poggers",
+      "autor": "JK Rola",
+      "categoria": "Morbius",
+      "paginas": "1 morbilhão",
+      "preco": "23",
+      "data": "2012-12-12",
+      "idioma": "bri'ish",
+      "editora": "Teu Pai LTDA",
+      "isbn": "127-542-488-55"
+    },
+    {
+      "nome": "Tutorial Passo a Passo para ingressar no Mercado de Venda de Metanfetamina",
+      "categoria": "Tutoriais Bons",
+      "preco": 150000,
+      "data": "2022-07-18",
+      "paginas": 9,
+      "idioma": "Whitês",
+      "isbn": "4378932",
+      "autor": "Walter Hartwell \"Walt\" White Sr.",
+      "editora": "White Productions",
+      "id": 2
+    }
+  ]
+}
